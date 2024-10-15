@@ -1,2 +1,3 @@
 We plotted life expectancy over time.
 Each point represents something something.
++Continents are group by color.
